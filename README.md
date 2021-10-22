@@ -39,6 +39,6 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-guilherme-222878173" /></a>
 
 </p> 
-<p font-size="8px"> The World and technology is always in progress.(As me)</p>
+<p font-size="8px"> The World and technology is always in progress.</p>
 <img src="https://github-readme-stats.vercel.app/api?username=githubsamuell&show_icons=true&theme=nightowl" alt="Samuel-Lopes">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubsamuell&layout=compact&theme=nightowl" alt="Samuel-Lopes">
