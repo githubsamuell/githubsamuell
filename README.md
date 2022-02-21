@@ -12,7 +12,7 @@ Nice to meet you, I'm Samuel Guilherme
 
 ## My Weapons 🌟
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tidbitsjs&theme=react)](https://github.com/tidbitsjs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githubsamuell&theme=react)](https://github.com/githubsamuell/github-readme-stats)
 
 <br>
 
@@ -53,28 +53,20 @@ Nice to meet you, I'm Samuel Guilherme
  
 ## Github Status 🏆
 
-<img  src="https://github-readme-stats.vercel.app/api?username=TidbitsJS&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=TidbitsJS&theme=react" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=githubsamuell&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=githubsamuell&theme=react" width="48%" >
 <br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=TidbitsJS&theme=react-dark)
+![github graph](https://activity-graph.herokuapp.com/graph?username=githubsamuell&theme=react-dark)
 <br>
 
 <p align="center">Wanna Know me More?</p>
 
 <p align="center">
  
-<a href="https://twitter.com/TidbitsJS">
-<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
-
-<a href="https://www.instagram.com/tidbits.js">
-<img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a>  
-
-<a href="https://www.linkedin.com/in/sujata-gunale-15964b166/">
+<a href="https://www.linkedin.com/in/samuel-guilherme-222878173/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
     
-<a href="https://tidbitsjs.medium.com/">
-<img src="https://img.shields.io/badge/-Medium-%2337817f" alt="Medium" /></a>  
 
 </p>
 
