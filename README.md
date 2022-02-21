@@ -45,15 +45,16 @@ Nice to meet you, I'm Samuel Guilherme
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="mysql width="40" height="40"/> </a> &nbsp; &nbsp;
         </p>
 ---
+
 <br>
 
 <p align="center">Wanna Know me More?</p>
 
-<p align="center">
+<div align="center">
  
 <a href="https://www.linkedin.com/in/samuel-guilherme-222878173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="samuel.guilherme.l@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
     
 
-</p>
+</div>
