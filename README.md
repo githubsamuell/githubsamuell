@@ -27,7 +27,7 @@ Nice to meet you, I'm Samuel Guilherme
     <br />
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp; &nbsp;
         <a href="https://www.https://www.mongodbcom/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp; &nbsp;      
     
     <br />
