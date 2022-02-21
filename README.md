@@ -48,17 +48,8 @@ Nice to meet you, I'm Samuel Guilherme
 
 ---
 
-### Wanna Know me More?:
+### Contact me
 <a href="https://www.linkedin.com/in/samuel-guilherme-222878173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="samuel.guilherme.l@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <br>
 
-<p align="center"> Wanna Know me More?</p>
-
-<div align="center">
-<a href="https://www.linkedin.com/in/samuel-guilherme-222878173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="samuel.guilherme.l@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    
-    
-
-</div>
