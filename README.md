@@ -4,10 +4,10 @@ Nice to meet you, I'm Samuel Guilherme
 
 ## Who Am I? 🤠
 
-- 🤓 I am student devlopment FullStack at Trybe 
-- 👩‍💻 I am from Brasil, Santos SP 
-- 🎯 Goal : To be a better Developer 
--🎮 Hobies: 🏋️‍♂️, 🕹️, 📖 and 🍿
+-   🤓 I am student devlopment FullStack at Trybe 
+-   👩‍💻 I am from Brasil, Santos SP 
+-   🎯 Goal : To be a better Developer 
+-   🎮 Hobies: 🏋️‍♂️, 🕹️, 📖 and 🍿
 <br>
 
 ## My Weapons 🌟
