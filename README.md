@@ -50,16 +50,6 @@ Nice to meet you, I'm Samuel Guilherme
 
 <br>
 
- 
-## Github Status 🏆
-
-<img  src="https://github-readme-stats.vercel.app/api?username=githubsamuell&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=githubsamuell&theme=react" width="48%" >
-<br>
-
-![github graph](https://activity-graph.herokuapp.com/graph?username=githubsamuell&theme=react-dark)
-<br>
-
 <p align="center">Wanna Know me More?</p>
 
 <p align="center">
@@ -70,4 +60,3 @@ Nice to meet you, I'm Samuel Guilherme
 
 </p>
 
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=TidbitsJS.TidbitsJS" alt="TidbitsJS :: Visitor's Count" /></p>
