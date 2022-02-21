@@ -45,7 +45,10 @@ Nice to meet you, I'm Samuel Guilherme
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="mysql width="40" height="40"/> </a> &nbsp; &nbsp;
         </div>
         <br>
+
 ---
+
+### Tools and technologies that I use:
 
 <br>
 
