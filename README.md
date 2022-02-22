@@ -41,7 +41,6 @@ Nice to meet you, I'm Samuel Guilherme
     <br />
         <a href="https://docs.kernel.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="mysql" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode width="40" height="40"/> </a> &nbsp; &nbsp;     
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="mysql width="40" height="40"/> </a> &nbsp; &nbsp;
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="mysql width="40" height="40"/> </a> &nbsp; &nbsp;
         </div>
         <br>
