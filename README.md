@@ -1,6 +1,6 @@
 # Hello, folks!
 
-Nice to meet you, I'm Samuel Guilherme
+Nice to meet you, My name is Samuel Guilherme
 
 ## Who Am I? 🤠
 
