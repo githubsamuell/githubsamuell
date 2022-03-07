@@ -1,13 +1,13 @@
 # Bem vindo!
 
-Meu nome é Samuel guilherme
+Meu nome é Samuel.
 
 ## Algumas curiosidades sobre mim... 🤠
 
 -   🤓 Atualmente Estudo Desenvolvimento Web Na Trybe.
 -   👩‍💻 Resido em Santos, São Paulo, Brasil. 
 -   🎯 Meu objetivo na area da tecnologia é me tornar um programador melhor a cada dia.
--   🎮 Meus Hobies: 🏋️‍♂️, 🕹️, 📖 e 🍿
+-   🎮 Meus Hobies: 🏋️‍♂️, 🕹️, 📖 e 🍿.
 <br>
 
 ---
@@ -54,7 +54,7 @@ Meu nome é Samuel guilherme
 
 ---
 
-### Contato
+### Contato.
 <a href="https://www.linkedin.com/in/samuel-guilherme-222878173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br>
 
