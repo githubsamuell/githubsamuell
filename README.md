@@ -5,9 +5,9 @@ Meu nome é Samuel guilherme
 ## Algumas curiosidades sobre mim... 🤠
 
 -   🤓 Atualmente Estudo Desenvolvimento Web Na Trybe.
--   👩‍💻 Resido em Santos, São Paulo Brasil. 
+-   👩‍💻 Resido em Santos, São Paulo, Brasil. 
 -   🎯 Meu objetivo na area da tecnologia é me tornar um programador melhor a cada dia.
--   🎮 Meus Hobies: 🏋️‍♂️, 🕹️, 📖 and 🍿
+-   🎮 Meus Hobies: 🏋️‍♂️, 🕹️, 📖 e 🍿
 <br>
 
 ---
