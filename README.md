@@ -1,16 +1,23 @@
-# Hello, folks!
+# Bem vindo!
 
-Nice to meet you, My name is Samuel Guilherme
+Meu nome é Samuel guilherme
 
-## Who Am I? 🤠
+## Algumas curiosidades sobre mim... 🤠
 
--   🤓 I am student devlopment FullStack at Trybe 
--   👩‍💻 I am from Brasil, Santos SP 
--   🎯 Goal : To be a better Developer 
--   🎮 Hobies: 🏋️‍♂️, 🕹️, 📖 and 🍿
+-   🤓 Atualmente Estudo Desenvolvimento Web Na Trybe.
+-   👩‍💻 Resido em Santos, São Paulo Brasil. 
+-   🎯 Meu objetivo na area da tecnologia é me tornar um programador melhor a cada dia.
+-   🎮 Meus Hobies: 🏋️‍♂️, 🕹️, 📖 and 🍿
 <br>
 
 ---
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=githubsamuell&show_icons=true&theme=radical)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=githubsamuell&layout=compact&theme=radical)
+
+
+
 
 ### Tools and technologies that I use:
 
