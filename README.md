@@ -12,14 +12,14 @@ Meu nome é Samuel guilherme
 
 ---
 
+### Minhas Tecnologias mais utilizadas:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=githubsamuell&show_icons=true&theme=radical)
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=githubsamuell&layout=compact&theme=radical)
 
 
 
 
-### Tools and technologies that I use:
+### Outras Tecnologias que eu uso:
 
 <div align="left">
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> &nbsp;
