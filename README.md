@@ -14,7 +14,7 @@ Meu nome é Samuel.
 
 ### Tecnologias mais utilizadas por mim:
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=githubsamuell&layout=compact&theme=radical)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=githubsamuell&layout=compact&theme=radical)
 
 
 
