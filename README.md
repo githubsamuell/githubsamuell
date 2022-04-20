@@ -19,7 +19,7 @@ Meu nome é Samuel.
 
 ### Tecnologias:
 
-<div align="left">
+
    ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-FCC624?style=for-the-badge&logo=JavaScript&logoColor=323330)
 ![typescript Badge](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -42,7 +42,7 @@ Meu nome é Samuel.
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 ![Mongo Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
     (https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-        </div>
+     
         <br>
 
 ---
