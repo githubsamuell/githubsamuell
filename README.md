@@ -12,7 +12,7 @@ Meu nome é Samuel.
 
 ---
 
-<a href="https://github.com/githubsamuell"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubsamuell&layout=compact&theme=react&hide_border=true" /></a> |
+<a href="https://github.com/githubsamuell"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubsamuell&layout=compact&theme=react&hide_border=true" /></a>
 
 
 
