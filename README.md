@@ -35,7 +35,6 @@ Meu nome é Samuel.
 ![Node Badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express Badge](https://img.shields.io/badge/-Express.js-green?style=for-the-badge&logo=Express&logoColor=black)
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![Prisma Badge](https://img.shields.io/badge/-Prisma-eeeeee?style=for-the-badge&logo=prisma&logoColor=0c344b)
 ![Sequelize Badge](https://img.shields.io/badge/-Sequelize-eeeeee?style=for-the-badge&logo=sequelize&logoColor=00b1ea)
 ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
