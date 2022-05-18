@@ -40,7 +40,6 @@ Meu nome é Samuel.
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 ![Mongo Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-    ![GO BAdge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
     ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
      
         
