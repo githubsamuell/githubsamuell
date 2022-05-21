@@ -1,13 +1,13 @@
-# Bem vindo!
+# Welcome!
 
-Meu nome é Samuel.
+My name is Samuel.
 
-## Algumas curiosidades sobre mim... 🤠
+## Some facts about me... 🤠
 
--   🤓 Atualmente Estudo Desenvolvimento Web Na Trybe.
--   👩‍💻 Atualmente resido em Santos, São Paulo, Brasil. 
--   🎯 Meu objetivo na area da tecnologia é me tornar um programador melhor a cada dia.
--   🎮 Meus Hobies: 🏋️‍♂️, 🕹️, 📖 e 🍿.
+- 🤓 Currently Studying Web Development At Trybe.
+- 👩‍💻 I currently reside in Santos, São Paulo, Brazil.
+- 🎯 My goal in the technology area is to become a better programmer every day.
+- 🎮 My Hobies: 🏋️‍♂️, 🕹️, 📖 and 🍿.
 <br>
 
 ---
@@ -17,7 +17,7 @@ Meu nome é Samuel.
 
 
 
-### Tecnologias:
+### Technologies:
 
 
    ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-FCC624?style=for-the-badge&logo=JavaScript&logoColor=323330)
@@ -46,7 +46,7 @@ Meu nome é Samuel.
 
 ---
 
-### Contato.
+### Contact.
 <a href="https://www.linkedin.com/in/samuel-guilherme-222878173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br>
 
