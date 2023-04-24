@@ -4,7 +4,7 @@ My name is Samuel.
 
 ## Some facts about me... 🤠
 
-- 🤓 Currently Studying Web Development At Trybe.
+- 🤓 Software Developer.
 - 👩‍💻 I currently reside in Santos, São Paulo, Brazil.
 - 🎯 My goal in the technology area is to become a better programmer every day.
 - 🎮 My Hobies: 🏋️‍♂️, 🕹️, 📖 and 🍿.
